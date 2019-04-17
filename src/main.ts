@@ -205,7 +205,8 @@ class ArtistTrackListComponent {
 	</li>
 </ul>
  `
-})
+}
+)
 class ArtistAlbumListComponent {
   private albums: any[];
 
